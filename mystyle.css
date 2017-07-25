@@ -27,27 +27,27 @@
   border: 1px solid white;
 }
 
-.navbar-default .navbar-brand {
+.navbar-default .navbar-brand { /* Welcome top left*/
   color:#88BBD6 !important;
   font-family: "Times New Roman", Georgia, Serif;
   font-size: 30px;
 }
 
-.navbar-default .navbar-toggle .icon-bar{
+.navbar-default .navbar-toggle .icon-bar{ /* icon bar for menu when on small screen*/
   background-color:#88BBD6;    
 }
 
-.navbar-default .navbar-toggle{
+.navbar-default .navbar-toggle{ /* border of menu when on small screen*/
   border-color: #88BBD6;
 }
 
-.panel{
+.panel{  /* Three panesl about me portfolio contact*/
   top:70px;
   position: relative;
   background-color: #88BBD6;    
 }
 
-.pic1{
+.pic1{      /* Picture in about me*/
   border-radius: 10%;
   position: relative;
   bottom: 4px;
@@ -57,7 +57,7 @@
   border: 3px solid white;
 }
 
-.blue{
+.blue{      /* For footer*/
   color: #88BBD6;
 }
 
